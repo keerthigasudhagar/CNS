@@ -1,7 +1,7 @@
 ## EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
  
-## ABHINESWAR REDDY K
-## 212223040084
+## Keerthika S
+## 212223040093
 ## AIM:
 
 To implement the simple substitution technique named Caesar cipher using C language.
